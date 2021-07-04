@@ -4,3 +4,4 @@ Finally we built a model based on images from Kaggle's Facial Expression Recogni
 Code available in this repository allows you to train a CNN model which achieves 65.59% accuracy on the final testset.
 Dataset is available under the below location:
 https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+Further analysis and explanation of the work can be found at Deep Learning Final Report.pdf
